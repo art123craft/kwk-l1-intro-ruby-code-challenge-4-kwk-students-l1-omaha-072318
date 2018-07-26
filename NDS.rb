@@ -9,3 +9,4 @@
 # puts clothes
 
 closet = { "tops" =>["blouses","t-shirts","jackets"] 
+puts closet [0]
