@@ -7,3 +7,5 @@
 # clothes = [tops,bottoms,footwear]
 # footwear << "birkenstocks"
 # puts clothes
+
+closet = { "top"
