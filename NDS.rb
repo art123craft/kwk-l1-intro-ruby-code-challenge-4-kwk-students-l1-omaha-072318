@@ -8,4 +8,4 @@
 # footwear << "birkenstocks"
 # puts clothes
 
-closet = { "top"
+closet = { "tops" =>["blouses","t-shirts","jackets"] 
